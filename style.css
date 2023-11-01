@@ -1,0 +1,13 @@
+*{
+    padding: 15px; /* Cuida do Preenchimento*/ 
+    margin: 0; /* */
+    vertical-align: baseline; /* */
+    list-style: none; /* */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* */
+}
+
+header > h1 {
+
+    
+}
+
