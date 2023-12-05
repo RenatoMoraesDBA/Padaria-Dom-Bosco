@@ -211,12 +211,12 @@ main > section > h2 { /* Aqui estamos chamando nosso H2 para estilização */
     background-attachment: fixed; /* */
     background-position: center; /* Na posição da imagem colocamos ao centro */
     background-size: cover; /* */
-    padding: 120px; /* */
+    padding: 10%; /* */
 }
 
 #sobre-nos > h3 {  /* */
     color: white; /* */
-    font-size: 64px; /* */
+    font-size: 4em; /* */
     text-align: center; /* */
     font-family: 'Ubuntu', 'sans-serif'; /* */
 }
@@ -270,4 +270,6 @@ footer > h2 {  /* */
     font-size: 24px; /* */
     font-weight: bold; /* */
     margin-left: 10px; /* */
+
+    
 }
